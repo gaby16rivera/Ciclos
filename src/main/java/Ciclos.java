@@ -15,7 +15,10 @@ public class Ciclos {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-    //EJEMPLO1
+    
+//COMENTARIO DE EJEMPLO
+
+//EJEMPLO1
     int i=0;
     while(i<5){
         System.out.println("Hola Pedro");
